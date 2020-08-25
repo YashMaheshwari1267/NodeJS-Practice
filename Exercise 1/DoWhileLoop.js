@@ -5,4 +5,4 @@ do{
     myArray.push(i++);
 }while(i<5);
 
-console.log(myArray);
+console.log(myArray) ;

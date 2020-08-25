@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "this is my first npm",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashMaheshwari1267/Git-Test.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashMaheshwari1267/Git-Test/issues"
+  },
+  "homepage": "https://github.com/YashMaheshwari1267/Git-Test#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
