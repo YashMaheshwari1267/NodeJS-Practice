@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "description": "this is my first npm",
-  "main": "functions.js",
+  "main": "bubbleSort.js",
   "scripts": {
     "test": "jest"
   },
