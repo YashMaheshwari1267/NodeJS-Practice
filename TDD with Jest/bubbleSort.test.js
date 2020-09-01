@@ -6,7 +6,7 @@ test('Test positive integers',() => {
     expect(sortArray(a)).toEqual([4,5,12,18,90]);
 });
 
-//2. testing negative integersnp
+//2. testing negative integers
 test('Testing negative integers', () => {
     const a = [-10,-1,-23,-98,-33];
     expect(sortArray(a)).toEqual([-98,-33,-23,-10,-1]);
